@@ -2,5 +2,5 @@
 * Subject: A image generator app
 * Purpose: practice of web api fetching, javaScript, html/css styling
 * Instruction: Enter a search term and it will display image based on it
-![alt text](https://github.com/chriskolb00/Chriskolb00.photo.github.io/blob/master/images/display.jpg?raw=true)
+![Alt text](relative%20path/to/display.jpg?raw=true "Title")
 # Link: https://chriskolb00-photogenerator.netlify.app
