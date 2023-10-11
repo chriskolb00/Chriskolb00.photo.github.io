@@ -3,4 +3,4 @@
 * Purpose: practice of web api fetching, javaScript, html/css styling
 * Instruction: Enter a search term and it will display image based on it
 * <a href="https://chriskolb00-photogenerator.netlify.app" />Website
-* <img src="./images/display.png" />
+* <img src="./images/display.png" width={100} height={100} />
