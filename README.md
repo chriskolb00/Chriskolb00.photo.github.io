@@ -1,5 +1,6 @@
-# Chriskolb00.photo.github.io
-* Subject: A image generator app
+# Hello, my name is Christian 
+* Project: Chriskolb00.photo.github.io
+* Subject: An image generator app
 * Purpose: practice of web api fetching and styling
 * Tools used:
   <br>javaScript
