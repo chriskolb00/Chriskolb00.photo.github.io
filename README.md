@@ -2,7 +2,7 @@
 * Subject: A image generator app
 * Purpose: practice of web api fetching and styling
 * Tools used:
-    *javaScript
+    \tjavaScript
     *html/css
     *Vscode
     *Vercel
